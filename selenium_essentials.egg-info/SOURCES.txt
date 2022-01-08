@@ -1,0 +1,10 @@
+README.md
+setup.py
+selenium-essentials/essentials.py
+selenium-essentials/setup.py
+selenium-essentials/tester.py
+selenium_essentials.egg-info/PKG-INFO
+selenium_essentials.egg-info/SOURCES.txt
+selenium_essentials.egg-info/dependency_links.txt
+selenium_essentials.egg-info/requires.txt
+selenium_essentials.egg-info/top_level.txt
