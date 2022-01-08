@@ -1,5 +1,3 @@
-import random
-import time
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException
 from selenium.webdriver import ActionChains
 

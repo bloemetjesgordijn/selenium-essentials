@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="selenium-essentials",
-    version="1.0.0",
+    version="1.0.2",
     description="Speed up selenium development",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -22,5 +22,5 @@ setup(
     ],
     packages=["selenium-essentials"],
     include_package_data=True,
-    install_requires=["random", "time", "selenium"]
+    install_requires=["selenium", "random", "time"]
 )
